@@ -11,18 +11,18 @@ nav .navbar-brand:hover ,
 .celebrate .celebrate-inner .date,
 .people .container .vv .groom i
 {
-    color:#FB839E !important;
+    color:#6f42c1 !important;
 }
 
 .couples .couple-img .inner-img i,
 .people .container .vv .groom i{
     
-    border:1px solid #FB839E;}
+    border:1px solid #6f42c1;}
 .couples .couple-img .inner-img img{
-    border: 10px solid #FB839E;
+    border: 10px solid #6f42c1;
 }
 .celebrate .celebrate-inner{
-    border:5px solid #FB839E;
+    border:5px solid #6f42c1;
 }
 .people .container .active ,
 .celebrate,
@@ -31,5 +31,5 @@ nav .navbar-brand:hover ,
 
 .menue .cog
 {
-    background-color:#FB839E
+    background-color:#6f42c1
 }
