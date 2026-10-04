@@ -21,9 +21,15 @@ nav .navbar-brand:hover ,
 .couples .couple-img .inner-img img{
     border: 10px solid #6f42c1;
 }
-.celebrate .celebrate-inner{
-    border:5px solid #6f42c1;
+.celebrate{
+    background-image: url("../img/bcg.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+.celebrate-inner{
+    border:5px solid #6f42c1;
+   }
 .people .container .active ,
 .celebrate,
 .invite,
